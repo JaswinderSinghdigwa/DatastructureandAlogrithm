@@ -7,7 +7,6 @@ public class InsertionSortMain {
  
         InsertionSort insertsort = new InsertionSort();
         insertsort.sort(arr);
- 
         insertsort.printArray(arr);
     }
 } 
